@@ -87,7 +87,7 @@ The screenshots use the fictional demo.
 
 ## My contribution
 
-I led the integration and delivery and built the service catalog, invoicing, payment recording, and billing reports. I also packaged Care Board and the database and n8n setup so the full demo can run from a fresh clone.
+I led the integration and delivery and built the service catalog, invoicing, payment recording, and billing reports. I built Care Board, the staff website, and connected it to the n8n workflow. I packaged the website, database, and n8n setup so the full demo can run from a fresh clone.
 
 This showcase is based on the verified [team setup PR](https://github.com/nhahub/NHA-5-179/pull/1). See the [team repository](https://github.com/nhahub/NHA-5-179) for the original project.
 
@@ -99,4 +99,4 @@ This showcase is based on the verified [team setup PR](https://github.com/nhahub
 | **Menna Hamed** | Doctor availability, booking, rescheduling, cancellation, and wait-list handling. The appointment lifecycle connects to Salma Hassanien’s check-in and visit flow. |
 | **Salma Hassanien** | Clinical visits, consultation notes and revisions, patient attachments, and visit finalization. The clinical workflow handles doctor review of drafts from Osama Azab’s AI workflow. |
 | **Osama Azab** | Patient notifications, reminders, feedback, support handoffs, and AI summary drafting. The doctor decides what to approve for the patient. |
-| **Moustafa Mohamed** | Team lead for integration and delivery. Owns the service catalog, invoicing, payment recording, and billing reports. Invoicing uses the performed services from Salma Hassanien’s finalized visit. |
+| **Moustafa Mohamed** | Team lead for integration and delivery. Built Care Board, the staff website, and connected it to the n8n workflow. Owns the service catalog, invoicing, payment recording, and billing reports. Invoicing uses the performed services from Salma Hassanien’s finalized visit. |
